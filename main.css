@@ -1111,6 +1111,7 @@ p{
 }
 .projectbox{
    padding-left:10%;
+   padding-top:5%;
 }
 .imagebox{
   border-radius: 10px;
@@ -1132,11 +1133,15 @@ p{
   position: relative;
   margin-top: 4%;
 }
+
 .internbox h5 , .projectbox h5{
   margin-left:10%;
   font-size:60%;
   position: relative;
   margin-top: 0%;
+}
+.projectbox h4, .projectbox h5{
+   margin-left:0;
 }
 .internbox2{
   display: none;
@@ -1340,5 +1345,6 @@ body {
   position: relative;
   transition: 0.4s;
   margin-top: 10%;
+  margin-left:-10%
 }
 }
