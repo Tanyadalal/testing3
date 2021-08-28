@@ -559,13 +559,6 @@ p{
   margin-right: 45%;
 }
 
-.addicon
-{
-
-  position: relative;
-  transition: 0.4s;
-}
-
 .addicon:hover
 {
   transform: scale(1.2,1.2);
@@ -1120,7 +1113,7 @@ p{
   border-radius: 10px;
   height: 50%;
   width:auto;
-  margin:2%
+  margin:5%
   background-color: #412a1c;
 }
   .internbox img, .internbox2 img, .projectbox img{
@@ -1312,8 +1305,8 @@ body {
 .moreicon
 {
   position: absolute;
-  margin-left: 85%;
-  margin-top: 100%;
+  margin-left: 80%;
+  margin-top: 95%;
   transition: 0.4s;
   width:20;
   height:auto;
@@ -1322,8 +1315,8 @@ body {
 .moreicon2
 {
   position: absolute;
-  margin-left: 85%;
-  margin-top: 50%;
+  margin-left: 80%;
+  margin-top: 100%;
   transition: 0.4s;
   width:20;
   height:auto;
@@ -1331,4 +1324,11 @@ body {
 .moreicon img,.moreicon2 img{
   width:20;
   height:auto;
+}
+.addicon
+{
+  position: relative;
+  transition: 0.4s;
+  margin-top: 10%;
+}
 }
