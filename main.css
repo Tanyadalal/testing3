@@ -381,7 +381,7 @@ transition: 1s;
   font-size: 120%;
 }
 
-.tech, .techbox1, .techbox, .aboutme, .internship{
+.tech, .techbox1, .techbox, .aboutme, .internship, .contactme{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1236,6 +1236,8 @@ body {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
   transition: 0.8s;
 }
-
-
+.contactme{
+  flex-direction: row;
+  margin:5%;
+}
 }
