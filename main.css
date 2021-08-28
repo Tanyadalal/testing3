@@ -1227,7 +1227,7 @@ body {
 
 .cardp{
   display: flex;
-  width: 100%;
+  width: 80%;
   height: 30%;
   flex-direction: column;
   justify-content: center;
@@ -1237,7 +1237,7 @@ body {
   border-radius: 10px;
   margin: 5%;
   margin-top:10%;
-  margin-bottom:-20%;
+  margin-bottom:-40%;
   margin-bottom: 0%;
 }
 
