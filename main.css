@@ -1110,16 +1110,16 @@ p{
   
 }
 .projectbox{
-   padding:10%;
+   padding-left:10%;
 }
 .imagebox{
   border-radius: 10px;
-  width:100%;
-  height:auto;
+  height:40;
+  width:auto;
   margin-left:10%
   background-color: #412a1c;
 }
-.imagebox img{
+.projectbox .imagebox img{
    width:100%;
    height:auto;
 }
