@@ -1239,5 +1239,6 @@ body {
 .contactme{
   flex-direction: column;
   margin:5%;
+  margin-left:40%;
 }
 }
