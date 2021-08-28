@@ -1117,9 +1117,10 @@ p{
   
 }
 .imagebox{
-  width: 100%;
   border-radius: 10px;
   height: 50%;
+  width:auto;
+  margin:2%
   background-color: #412a1c;
 }
   .internbox img, .internbox2 img, .projectbox img{
