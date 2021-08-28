@@ -1264,6 +1264,7 @@ body {
   font-family: Kalam;
   color: var(--cont2-color);
   margin: 2%;
+  margin-bottom:5%;
   transition: 2s;
   display: none;
 }
