@@ -1234,8 +1234,8 @@ body {
   overflow: hidden;
   background-color: var(--box2-color);
   border-radius: 10px;
-  margin: 0%;
-  margin-bottom: 0%;
+  margin: 5%;
+  margin-bottom: -20%;
 }
 
 .cardp img{
@@ -1254,7 +1254,7 @@ body {
 
 
 .card-title{
-  font-size: 15%;
+  font-size: 150%;
   font-family: Kalam-Bold;
   color: var(--cont2-color);
   margin: 2%;
@@ -1310,8 +1310,10 @@ body {
 {
   position: absolute;
   margin-left: 85%;
-  margin-top: 50%;
+  margin-top: 100%;
   transition: 0.4s;
+  width:20;
+  height:auto;
 }
 
 .moreicon2
@@ -1320,6 +1322,8 @@ body {
   margin-left: 85%;
   margin-top: 50%;
   transition: 0.4s;
+  width:20;
+  height:auto;
 }
 .moreicon img,.moreicon2 img{
   width:20;
