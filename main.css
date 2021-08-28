@@ -1284,14 +1284,15 @@ body {
   display: none;
 }
 .card-line{
-  margin-top: 5%;
+  margin-top: 7%;
   width: 100%;
   height: 1%;
   background-color: var(--cont2-color);
   transition: 0.8s;
 }
 .card-content2{
-  margin-top:10%;
+  margin-top:5%;
+  margin-bottom:5%;
   transition: 0.8s;
 }
 
