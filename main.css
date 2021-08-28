@@ -1241,8 +1241,12 @@ body {
 }
 .contactme{
   flex-direction: column;
-  margin:5%;
+  margin:0%;
   padding-top:10%;
+}
+
+.contactme.abouticons{
+  margin:5%;
 }
 
 }
