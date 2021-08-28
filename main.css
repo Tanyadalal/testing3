@@ -1220,6 +1220,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  position:relative;
 }
 
 
@@ -1228,6 +1229,7 @@ body {
   flex-wrap: wrap;
   width: 80%;
   height: 30%;
+  position:relative;
 }
 
 .cardp img{
@@ -1240,10 +1242,7 @@ body {
 .contactme{
   flex-direction: column;
   margin:5%;
-  margin-top:10%;
-}
-.contactme .abouticons{
-  border:5%;
+  padding-top:10%;
 }
 
 }
