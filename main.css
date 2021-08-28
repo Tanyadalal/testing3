@@ -1247,5 +1247,22 @@ body {
 .contactme.abouticons{
   margin:5%;
 }
+.moreicon
+{
+  position: absolute;
+  margin-left: 85%;
+  margin-top: 50%;
+  transition: 0.4s;
+}
 
+.moreicon2
+{
+  position: absolute;
+  margin-left: 85%;
+  margin-top: 50%;
+  transition: 0.4s;
+}
+.moreicon img,.moreicon2 img{
+  width:20;
+  height:auto;
 }
