@@ -1237,7 +1237,7 @@ body {
   transition: 0.8s;
 }
 .contactme{
-  flex-direction: row;
+  flex-direction: column;
   margin:5%;
 }
 }
