@@ -1236,7 +1236,9 @@ body {
   background-color: var(--box2-color);
   border-radius: 10px;
   margin: 5%;
-  margin-bottom: -20%;
+  margin-top:10%;
+  margin-bottom:-20%;
+  margin-bottom: 0%;
 }
 
 .cardp img{
@@ -1255,7 +1257,7 @@ body {
 
 
 .card-title{
-  font-size: 150%;
+  font-size: 85%;
   font-family: Kalam-Bold;
   color: var(--cont2-color);
   margin: 2%;
