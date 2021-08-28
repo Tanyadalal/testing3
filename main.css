@@ -1291,7 +1291,7 @@ body {
   transition: 0.8s;
 }
 .card-content2{
-  margin-top:5%;
+  margin-top:0%;
   margin-bottom:5%;
   transition: 0.8s;
 }
@@ -1303,7 +1303,9 @@ body {
   transition: 4s;
 }
 
-
+.cardp:hover img{
+ transform: scale(0.8,0.8) translateY(0em);
+}
 
 
 
