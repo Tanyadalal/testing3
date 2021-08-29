@@ -715,8 +715,9 @@ p{
 
 .cardp img{
   border-radius: 50%;
-  height: 30%;
+ 
   width: 35%;
+  height: auto;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
   transition: 0.8s;
 }
@@ -1117,7 +1118,7 @@ p{
   border-radius: 10px;
   height:40;
   width:auto;
-  margin-left:10%
+  margin-left:10%;
   background-color: #412a1c;
 }
 .projectbox .imagebox img{
@@ -1324,8 +1325,8 @@ body {
 .moreicon
 {
   position: absolute;
-  margin-left: 80%;
-  margin-top: 95%;
+  margin-left: 82%;
+  margin-top: 90%;
   transition: 0.4s;
   width:20;
   height:auto;
